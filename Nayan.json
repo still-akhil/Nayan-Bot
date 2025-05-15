@@ -14,14 +14,14 @@
   "react": "☠️",
   "OPERATOR": [
     "",
-    "100000959749712"
+    "100000688180576"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100000688180576",
     ""
   ],
   "OWNER": ["100000959749712"], 
-  "APPROVED": [],
+  "APPROVED": [100000688180576],
   "disabledcmds": [],
   "disabledevents": [],
   "note": "make sure that the bot name you entered is all lowercase",
