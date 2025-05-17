@@ -268,3 +268,4 @@ function saveTextStyle(threadID, style) {
     console.error('Error saving text styles:', error);
   }
 }
+ 
